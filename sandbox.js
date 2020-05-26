@@ -1,8 +1,9 @@
 var character = 'mario';
 var age;
 var isLoggedIn;
-// age = 'luigi';
-age = 30;
+age = 25;
+console.log(age);
+//age = 30;
 // isLoggedIn = 25;
 isLoggedIn = true;
 // arrays

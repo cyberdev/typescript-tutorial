@@ -2,8 +2,9 @@ let character: string = 'mario';
 let age: number;
 let isLoggedIn: boolean;
 
-// age = 'luigi';
-age = 30;
+age = 25;
+console.log(age)
+//age = 30;
 
 // isLoggedIn = 25;
 isLoggedIn = true;
